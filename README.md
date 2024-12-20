@@ -1,8 +1,8 @@
 # Hi! I'm James McGreivy
 
 ## About Me:
-- **PhD research fellow for the Institute for Artificial Intelligence and Fundamental Interactions @ MIT**
-- **Ex researcher for the Nuclear Science and Security Consortium @ UC Berkeley**
+- **PhD student at the Institute for Artificial Intelligence and Fundamental Interactions @ MIT**
+- **Ex researcher for the Nuclear Science and Security Consortium and Lawrence Livermore National Laboratory**
 
 #### 🧑‍🎓 Education
 - **Massachusetts Institute of Technology - Interdisciplinary PhD in Particle Physics, Statistics, and Data Science**
@@ -22,4 +22,4 @@
 - ✉️ **Email**: [mcgreivy@mit.edu](mailto:mcgreivy@mit.edu)
 - 🌍 **Location**: Cambridge, MA
 
-<img src="https://github.com/user-attachments/assets/05fbef63-7ece-4c74-8295-7fb96aa550a9" alt="geo" width="500">
+<img src="https://github.com/user-attachments/assets/05fbef63-7ece-4c74-8295-7fb96aa550a9" alt="geo" width="600">
