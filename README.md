@@ -1,4 +1,4 @@
-# 👋 Hi! Welcome to my GitHub profile!
+# 👋 Hi! My name is James McGreivy
 
 ## 🧑‍🎓 Education
 
