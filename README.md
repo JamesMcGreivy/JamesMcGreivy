@@ -21,5 +21,3 @@
 
 - ✉️ **Email**: [mcgreivy@mit.edu](mailto:mcgreivy@mit.edu)
 - 🌍 **Location**: Cambridge, MA
-
-<img src="https://github.com/user-attachments/assets/05fbef63-7ece-4c74-8295-7fb96aa550a9" alt="geo" width="600">
