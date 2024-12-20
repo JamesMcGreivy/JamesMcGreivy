@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi! Welcome to my GitHub profile!
 
-<!--
-**JamesMcGreivy/JamesMcGreivy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍🎓 Education
 
-Here are some ideas to get you started:
+### Massachusetts Institute of Technology
+**Interdisciplinary PhD in Particle Physics, Statistics, and Data Science**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### University of California, Berkeley
+**B.A. Physics**
+
+## 🛠️ Interests
+
+- **Machine Learning, Natural Language Processing**
+- **Fundamental Physics**
+- **Quantum Computing**
+
+## 📬 Contact
+
+- ✉️ **Email**: [mcgreivy@mit.edu](mailto:mcgreivy@mit.edu)
+- 🌍 **Location**: Cambridge, MA
+
+Feel free to explore my repositories and connect with me if you're interested in collaborating or discussing research!
