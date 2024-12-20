@@ -1,7 +1,5 @@
 # Hi! I'm James McGreivy
 
-<img src="https://github.com/user-attachments/assets/05fbef63-7ece-4c74-8295-7fb96aa550a9" alt="geo" width="800">
-
 ## About Me:
 - **PhD research fellow for the Institute for Artificial Intelligence and Fundamental Interactions @ MIT**
 - **Ex researcher for the Nuclear Science and Security Consortium @ UC Berkeley**
@@ -23,3 +21,5 @@
 
 - ✉️ **Email**: [mcgreivy@mit.edu](mailto:mcgreivy@mit.edu)
 - 🌍 **Location**: Cambridge, MA
+
+<img src="https://github.com/user-attachments/assets/05fbef63-7ece-4c74-8295-7fb96aa550a9" alt="geo" width="500">
