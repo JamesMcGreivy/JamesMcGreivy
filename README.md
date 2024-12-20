@@ -18,5 +18,3 @@
 
 - ✉️ **Email**: [mcgreivy@mit.edu](mailto:mcgreivy@mit.edu)
 - 🌍 **Location**: Cambridge, MA
-
-Feel free to explore my repositories and connect with me if you're interested in collaborating or discussing research!
